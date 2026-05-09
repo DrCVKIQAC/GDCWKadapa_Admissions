@@ -67,6 +67,8 @@ The website and bot are designed to be **free, reusable, and easy to adapt** by 
 Licensed under the **MIT License** – see [`LICENSE`](LICENSE) for details.
 
 ---
+**Repository Note**
+Developed and maintained by Dr. C. V. Krishnaveni for academic and IQAC automation purposes. This repository may be migrated to the author’s personal GitHub account for continuity and long-term maintenance.
 
 ## 👩‍🏫 Designer and Developer
 
